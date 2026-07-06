@@ -4,12 +4,17 @@ Computational chemist (PhD) and research software engineer in Wellington, New Ze
 
 ## Featured projects
 
-- **[tenet](https://github.com/IakOBiaN/tenet)** — tensor-network renormalization (TRG / HOTRG / transfer matrix) for lattice models of adsorption systems. Built within a Russian Science Foundation project I supervised ([tensors.susmost.com](https://tensors.susmost.com/en/)); powered calculations in 9 papers (Phys. Rev. E, Phys. Rev. B, J. Phys. Chem. C, EPL, ...)
-- **[fsmp-kmc](https://github.com/IakOBiaN/fsmp-kmc)** — C++ kinetic Monte Carlo engine for the thermodynamics of rigid molecular crystals and adsorption layers (Phys. Chem. Chem. Phys., 2023)
-- **[HTN](https://github.com/IakOBiaN/HTN)** — hierarchical tensor networks; accompanies EPL 148, 61001 (2024). CI on Linux + Windows, ~92% test coverage
-- **[SuSMoST](https://susmost.com/)** — Surface Science Modeling and Simulation Toolkit: `pip install SuSMoST`; first author of the accompanying paper (J. Comput. Chem., 2020)
-- **[hard-hexagon](https://github.com/IakOBiaN/hard-hexagon)** — Baxter's exact solution of the hard hexagon model as a pip-installable Python package
-- **[black-hole](https://github.com/IakOBiaN/black-hole)** — work in progress: a physically accurate black hole renderer built from first principles
+**[tenet](https://github.com/IakOBiaN/tenet)** — tensor-network renormalization (TRG / HOTRG / transfer matrix) for lattice models of adsorption systems. Built within a Russian Science Foundation project I supervised ([tensors.susmost.com](https://tensors.susmost.com/en/)); powered calculations in 9 papers (Phys. Rev. E, Phys. Rev. B, J. Phys. Chem. C, EPL, ...)
+
+**[fsmp-kmc](https://github.com/IakOBiaN/fsmp-kmc)** — C++ kinetic Monte Carlo engine for the thermodynamics of rigid molecular crystals and adsorption layers (Phys. Chem. Chem. Phys., 2023)
+
+**[HTN](https://github.com/IakOBiaN/HTN)** — hierarchical tensor networks; accompanies EPL 148, 61001 (2024). CI on Linux + Windows, ~92% test coverage
+
+**[SuSMoST](https://susmost.com/)** — Surface Science Modeling and Simulation Toolkit: `pip install SuSMoST`; first author of the accompanying paper (J. Comput. Chem., 2020)
+
+**[hard-hexagon](https://github.com/IakOBiaN/hard-hexagon)** — Baxter's exact solution of the hard hexagon model as a pip-installable Python package
+
+**[black-hole](https://github.com/IakOBiaN/black-hole)** — work in progress: a physically accurate black hole renderer built from first principles
 
 ## Toolbox
 
