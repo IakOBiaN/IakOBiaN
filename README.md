@@ -15,7 +15,7 @@ For over eight years I have developed simulation software for the statistical me
 
 ## Featured projects
 
-**[TeNeT](https://github.com/IakOBiaN/tenet)** - tensor-network renormalization (TRG / HOTRG / transfer matrix) for lattice models of adsorption systems. Python, MIT-licensed, CI with automated tests. Built within the research project I led as PI; powered calculations in [9 papers](https://github.com/IakOBiaN/tenet#publications) (Phys. Rev. E, Phys. Rev. B, J. Phys. Chem. C, EPL, ...).
+**[TeNeT](https://github.com/IakOBiaN/tenet)** - tensor-network renormalization (TRG / HOTRG / transfer matrix) for lattice models of adsorption systems. Python, MIT-licensed, CI with automated tests. Built within the research project I led as PI; powered calculations in [9 papers](https://github.com/IakOBiaN/tenet#publications) ([Phys. Rev. E](https://doi.org/10.1103/PhysRevE.107.054116), [Phys. Rev. B](https://doi.org/10.1103/PhysRevB.110.045416), [J. Phys. Chem. C](https://doi.org/10.1021/acs.jpcc.4c04305), [EPL](https://doi.org/10.1209/0295-5075/ad994b), ...).
 
 **[FSMP-kMC](https://github.com/IakOBiaN/fsmp-kmc)** - C++ kinetic Monte Carlo engine for the thermodynamics of rigid molecular crystals and adsorption layers, with a desktop GUI, binary releases, and regression tests ([Phys. Chem. Chem. Phys., 2023](https://doi.org/10.1039/D3CP03955B)).
 
