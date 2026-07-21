@@ -1,4 +1,4 @@
-# Hi, I'm Sergei Akimenko 👋
+# Hi, I'm Sergei (Sergey) Akimenko 👋
 
 **Computational chemist (PhD) · Research software engineer · Wellington, New Zealand**
 
